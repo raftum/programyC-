@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1566161623 source:d:\programycpp\cwiczeniagrebosz\main.cpp
+	<string>
+	<iostream>
+	<vector>
+
